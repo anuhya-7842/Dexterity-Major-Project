@@ -24,20 +24,20 @@ This README helps developers to:
 -	Navigate and contribute to the codebase 
 ________________________________________
 ### Technologies Used
-- **Programming Language:** Python
-- **Core Techniques:**
--	Time Series Analysis 
--	Machine Learning 
--	Data Visualization 
-- **Libraries:**
--	Pandas, NumPy → Data processing 
--	Matplotlib / Seaborn → Visualization 
--	Scikit-learn → Machine learning 
--	Statsmodels → ARIMA, SARIMA 
--	Prophet → Forecasting 
-- **Data Sources:**
--	Historical Netflix subscription datasets 
--	Public datasets (e.g., Kaggle) 
+1. **Programming Language:** Python
+2. **Core Techniques:**
+    -	Time Series Analysis 
+    -	Machine Learning 
+    -	Data Visualization 
+3. **Libraries:**
+    -	Pandas, NumPy → Data processing 
+    -	Matplotlib / Seaborn → Visualization 
+    -	Scikit-learn → Machine learning 
+    -	Statsmodels → ARIMA, SARIMA 
+    -	Prophet → Forecasting 
+4. **Data Sources:**
+    -	Historical Netflix subscription datasets 
+    -	Public datasets (e.g., Kaggle) 
 ________________________________________
 ## Installation & Setup
 ### 🔹 Prerequisites
