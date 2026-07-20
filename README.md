@@ -11,12 +11,12 @@ ________________________________________
 -	Provide insights for business decision-making 
 ________________________________________
 ## When This README Is Used
-### 1️⃣ Sharing the Software
+###  Sharing the Software
 This README:
 -	Explains the purpose of the project 
 -	Provides installation and setup instructions 
 -	Describes how to run and use the system 
-### 2️⃣ Sharing the Source Code
+###  Sharing the Source Code
 This README helps developers to:
 -	Understand project workflow and structure 
 -	Identify tools, technologies, and models used 
@@ -40,17 +40,17 @@ ________________________________________
     -	Public datasets (e.g., Kaggle) 
 ________________________________________
 ## Installation & Setup
-### 🔹 Prerequisites
+###  Prerequisites
 -	Python 3.8+ 
 -	pip (Python package manager) 
-### 🔹 Clone the Repository
+###  Clone the Repository
 git clone https://github.com/your-username/netflix-subscription-forecasting.git
 cd netflix-subscription-forecasting
-### 🔹 Install Dependencies
+###  Install Dependencies
 pip install -r requirements.txt
 ________________________________________
 ### Running the Project
-▶️ Run with python
+Run with python
 python main.py
 ________________________________________
 ### Outputs
@@ -79,9 +79,5 @@ Steps to contribute:
 -	Commit your changes 
 -	Submit a pull request 
 ________________________________________
-### License
-This project is intended for **academic and research purposes only.**
-________________________________________
 ### Conclusion
 This project demonstrates how Python-based forecasting models can predict Netflix subscription growth effectively. It helps in understanding market trends, improving planning strategies, and making data-driven decisions.
-
